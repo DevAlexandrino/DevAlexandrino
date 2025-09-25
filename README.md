@@ -6,10 +6,10 @@
 </p>
 
 
-- 🔭 I'm currently an Information Systems student, aiming to deepen my knowledge in the cybersecurity field and pursue a career in the area.
-- :books: I've been studying tools and concepts related to cybersec and pentesting.
-- 👯 I'm a teaching assistant for Structured Programming in C at my university and part of a Computational Intelligence project, developing a Visual Salience system in Python.
-- ⚡ Fun fact:  used to be a competitive fighting game player, and nowadays I'm a fan of soulslike games, working my way through playing them all.
+- 🔭 I'm currently an Information Systems student, aiming to deepen my knowledge in the cybersecurity field.
+- :books: I've been studying tools and concepts related to cybersec.
+- 💻 I have professional experience in IT Support and Network Administration, focusing on troubleshooting and maintaining stable network environments.
+
 
 ## Tools and technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" heigth="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  heigth="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" heigth="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" heigth="50" width="50" />
