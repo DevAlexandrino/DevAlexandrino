@@ -9,6 +9,7 @@
 - 🔭 I'm currently an Information Systems student, aiming to deepen my knowledge in the cybersecurity field.
 - :books: I've been studying tools and concepts related to cybersec.
 - 💻 I have professional experience in IT Support and Network Administration, focusing on troubleshooting and maintaining stable network environments.
+- Certifications: AZ-900
 
 
 ## Tools and technologies
